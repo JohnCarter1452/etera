@@ -1,3 +1,7 @@
+site_name: Хроники Этеры НРИ
+plugins:
+  - search
+  # - awesome-pages  # закомментируй или удали
 nav:
   - Главная: README.md
   - Классы: Классы.md
