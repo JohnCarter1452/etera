@@ -3,14 +3,14 @@ site_name: Хроники Этеры НРИ
 nav:
   - Главная: README.md
   - Классы: classes/README.md
-  - Народы: народы/README.md
-  - Фракции: Фракции/README.md
-  - Артефакты: артефакты/README.md
-  - Бестиарий: бестиарий/README.md
-  - Правила: правила/README.md
-  - Инструменты мастера: инструменты_мастера/README.md
-  - Лор: лор/README.md
-  - Религии: религии/README.md
+  - Народы: narody/README.md
+  - Фракции: factions/README.md
+  - Артефакты: artefacts/README.md
+  - Бестиарий: bestiary/README.md
+  - Правила: rules/README.md
+  - Инструменты мастера: tools/README.md
+  - Лор: lore/README.md
+  - Религии: religions/README.md
   
 theme:
   name: mkdocs
