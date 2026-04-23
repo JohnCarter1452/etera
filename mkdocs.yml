@@ -1,10 +1,11 @@
-- Главная: README.md
-- Классы: Классы.md
-- Народы: narody/README.md
-- Фракции: factions/README.md
-- Артефакты: artefacts/README.md
-- Бестиарий: bestiary/README.md
-- Правила: rules/README.md
-- Инструменты мастера: tools/README.md
-- Лор: lore/README.md
-- Религии: religions/README.md
+nav:
+  - Главная: README.md
+  - Классы: классы.md
+  - Народы: народы.md
+  - Фракции: фракции.md
+  - Артефакты: артефакты.md
+  - Бестиарий: bestiary/README.md
+  - Правила: rules/README.md
+  - Инструменты мастера: tools/README.md
+  - Лор: lore/README.md
+  - Религии: religions/README.md
