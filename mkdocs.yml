@@ -1,5 +1,3 @@
-site_name: Хроники Этеры НРИ
-
 nav:
   - Главная: README.md
   - Классы: classes/index.md
