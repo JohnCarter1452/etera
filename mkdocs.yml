@@ -2,9 +2,9 @@ site_name: Хроники Этеры НРИ
 
 nav:
   - Главная: README.md
-  - Классы: классы/README.md
+  - Классы: classes/README.md
   - Народы: народы/README.md
-  - Фракции: фракции/README.md
+  - Фракции: Фракции/README.md
   - Артефакты: артефакты/README.md
   - Бестиарий: бестиарий/README.md
   - Правила: правила/README.md
