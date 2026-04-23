@@ -1,14 +1,10 @@
-nav:
-  - Главная: README.md
-  - Классы: classes/index.md
-  - Народы: narody/README.md
-  - Фракции: factions/README.md
-  - Артефакты: artefacts/README.md
-  - Бестиарий: bestiary/README.md
-  - Правила: rules/README.md
-  - Инструменты мастера: tools/README.md
-  - Лор: lore/README.md
-  - Религии: religions/README.md
-  
-theme:
-  name: mkdocs
+- Главная: README.md
+- Классы: classes/index.md
+- Народы: narody/README.md
+- Фракции: factions/README.md
+- Артефакты: artefacts/README.md
+- Бестиарий: bestiary/README.md
+- Правила: rules/README.md
+- Инструменты мастера: tools/README.md
+- Лор: lore/README.md
+- Религии: religions/README.md
