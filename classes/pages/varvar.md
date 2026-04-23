@@ -1,6 +1,5 @@
 ---
-hide:
-  - navigation
+hidden: true
 ---
 # 🪓 Варвар | Класс для НРИ «Этера»
 
