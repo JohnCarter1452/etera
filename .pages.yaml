@@ -1,3 +1,6 @@
+docs_dir: docs
+extra_css:
+  - stylesheets/extra.css
 nav:
  - Главная: README.md
  - Классы: Классы.md
